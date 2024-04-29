@@ -1,0 +1,33 @@
+
+
+
+/*
+    GLASSKIT
+    Copyright (c) 2024 Andrea Bonacci
+    All rights reserved.
+*/
+
+
+
+/*
+  Glass style 
+*/
+
+.glass {
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 8px;
+    border-color: transparent;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    transition: all 0.3s ease; 
+}
+
+
+/*
+  Hover styles for elements with the 'glass' class
+*/
+
+.glass:hover {
+    transform: translateY(-2px); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
