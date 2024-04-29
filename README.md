@@ -1,5 +1,4 @@
-markdown
-Copy code
+
 # GlassKit CSS Framework
 
 GlassKit is a lightweight CSS framework for applying a glass effect to HTML elements, including buttons, cards, containers, and select dropdowns. This framework provides a simple and easy way to add a modern and stylish glassy look to your web applications.
