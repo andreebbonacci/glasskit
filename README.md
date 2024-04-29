@@ -11,7 +11,7 @@ To use GlassKit in your project, you can include the `glasskit.css` file in your
 
 
 ```html
-<link rel="stylesheet" href="https://github.com/andreebbonacci/glasskit/blob/main/glasskit.css?raw=true">
+<link rel="stylesheet" href="https://glasskit.tiiny.site/glasskit-main/glasskit.css">
 ```
 ### Downloading the CSS File
 You can download the glasskit.css file from this repository and include it in your project:
